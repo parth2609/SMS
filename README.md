@@ -1,5 +1,5 @@
 # SMS
-CRUD Java Application Using Servlets 
+Java CRUD Application Using Servlets 
 
 Student Management System
 
